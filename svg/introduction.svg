@@ -66,6 +66,27 @@
 
         }
 
+        .lineUp {
+        animation: 3s anim-lineUp ease-out;
+        }
+        @keyframes anim-lineUp {
+        0% {
+            opacity: 0;
+            transform: translateY(80%);
+        }
+        20% {
+            opacity: 0;
+        }
+        50% {
+            opacity: 1;
+            transform: translateY(0%);
+        }
+        100% {
+            opacity: 1;
+            transform: translateY(0%);
+        }
+        }
+        
         @media (prefers-color-scheme: light) {
           .gradient-text {
             --color-main: #F15BB5;
@@ -92,7 +113,7 @@
         }
       </style>
 
-      <div class="container">
+      <div class="container lineUp">
         <h1>Hi there, my name is <span class="gradient-text">Alexandre</span></h1><div class="hi">👋</div>
       </div>
     </div>
