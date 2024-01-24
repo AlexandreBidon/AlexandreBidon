@@ -26,12 +26,6 @@
         }
 
         .container {
-          --color-main: #225930;
-          --color-primary: #5EA653;
-          --color-secondary: #7FBF1F;
-          --color-tertiary: #ABD907;
-
-
           width: 100%;
 
           display: flex;
@@ -50,6 +44,11 @@
         }
 
         .gradient-text {
+            --color-main: #225930;
+            --color-primary: #5EA653;
+            --color-secondary: #7FBF1F;
+            --color-tertiary: #ABD907;
+
             /* Fallback: Set a background color. */
             background-color: white;
             
@@ -68,11 +67,17 @@
         }
 
         @media (prefers-color-scheme: light) {
-          .container {
+          .gradient-text {
             --color-main: #F15BB5;
             --color-primary: #24b0ef;
             --color-secondary: #4526f6;
             --color-tertiary: #f6f645;
+          }
+        }
+
+        @media (prefers-color-scheme: light) {
+          .container {
+            color: black;
           }
         }
 
@@ -88,7 +93,7 @@
       </style>
 
       <div class="container">
-        <h1 class="gradient-text">Hi there, my name is Alexandre</h1><div class="hi">👋</div>
+        <h1>Hi there, my name is <span class="gradient-text">Alexandre</span></h1><div class="hi">👋</div>
       </div>
     </div>
   </foreignObject>
