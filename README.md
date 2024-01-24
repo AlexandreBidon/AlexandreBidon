@@ -1,4 +1,8 @@
 <p align="center">
   <a href="https://github.com/AlexandreBidon">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Alexandre Bidon" /></a>
+    <img src="https://raw.githubusercontent.com/AlexandreBidon/AlexandreBidon/main/banner_alexandre_bidon.jpg" alt="Alexandre Bidon" /></a>
 </p>
+
+<div align="center">
+    <img src="/svg/main_banner.svg" width="400" height="400" alt="css-in-readme">
+</div>
