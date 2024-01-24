@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AlexandreBidon">
-    <img src="https://raw.githubusercontent.com/AlexandreBidon/AlexandreBidon/main/banner_alexandre_bidon.jpg" alt="Alexandre Bidon" /></a>
+    <img src="/images/banner_alexandre_bidon.jpg" alt="Alexandre Bidon" /></a>
 </p>
 
 <div align="center">
