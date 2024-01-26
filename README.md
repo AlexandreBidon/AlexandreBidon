@@ -6,7 +6,7 @@
     <img src="/svg/introduction.svg" width="70%" alt="css-in-readme">
 </div>
 
-I'm a Data Engineer currently working in Paris . I'm passionate about Data and Software Engineering.
+I'm a Data Engineer currently working in Paris. I'm passionate about Data and Software Engineering.
 
 On my free time, I like to discover new technologies and develop video games!
 
