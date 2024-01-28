@@ -10,7 +10,7 @@ I'm a Data Engineer currently working in Paris. I'm passionate about Data and So
 
 On my free time, I like to discover new technologies and develop video games!
 
-## Featured projects
+## 🌱 Featured projects
 
 [![LoL-Skins-Prices](https://svg.bookmark.style/api?url=https://github.com/AlexandreBidon/LoL-Skins-Prices&mode=dark&style=horizontal)](https://github.com/AlexandreBidon/LoL-Skins-Prices)
 [![funky-horse](https://svg.bookmark.style/api?url=https://github.com/AlexandreBidon/Funky-Horse&mode=dark&style=horizontal)](https://github.com/AlexandreBidon/Funky-Horse)
